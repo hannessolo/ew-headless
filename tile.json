@@ -1,0 +1,9 @@
+{
+  "name": "adobe/experience-workspace",
+  "version": "0.1.0",
+  "summary": "Skills for the Experience Workspace — headless AEM Edge Delivery Services development.",
+  "private": false,
+  "skills": {
+    "hello": { "path": "skills/hello/SKILL.md" }
+  }
+}
