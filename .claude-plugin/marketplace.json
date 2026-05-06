@@ -1,0 +1,26 @@
+{
+  "name": "ew-headless",
+  "owner": {
+    "name": "Adobe"
+  },
+  "metadata": {
+    "description": "Experience Workspace — headless AEM Edge Delivery Services skills for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "experience-workspace",
+      "source": "./",
+      "description": "Skills for the Experience Workspace — headless AEM Edge Delivery Services development.",
+      "version": "0.1.0",
+      "category": "content-management",
+      "keywords": ["aem", "edge-delivery", "headless", "experience-workspace"],
+      "author": {
+        "name": "Adobe"
+      },
+      "homepage": "https://github.com/hannessolo/ew-headless",
+      "repository": "https://github.com/hannessolo/ew-headless",
+      "license": "Apache-2.0"
+    }
+  ]
+}

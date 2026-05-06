@@ -11,7 +11,8 @@ A Claude Code plugin for headless content management on [Adobe Document Authorin
 ## Installation
 
 ```bash
-claude plugin add github:hannessolo/ew-headless
+claude plugin marketplace add hannessolo/ew-headless
+claude plugin install experience-workspace@ew-headless
 ```
 
 ## Skills
