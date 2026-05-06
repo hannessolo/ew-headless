@@ -1,7 +1,7 @@
 {
   "name": "ew-headless",
   "owner": {
-    "name": "Adobe"
+    "name": "hannessolo"
   },
   "metadata": {
     "description": "Experience Workspace — headless AEM Edge Delivery Services skills for Claude Code",
@@ -16,7 +16,7 @@
       "category": "content-management",
       "keywords": ["aem", "edge-delivery", "headless", "experience-workspace"],
       "author": {
-        "name": "Adobe"
+        "name": "hannessolo"
       },
       "homepage": "https://github.com/hannessolo/ew-headless",
       "repository": "https://github.com/hannessolo/ew-headless",

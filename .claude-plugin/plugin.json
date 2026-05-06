@@ -3,7 +3,7 @@
   "description": "Skills for the Experience Workspace — headless AEM Edge Delivery Services development.",
   "version": "0.1.0",
   "author": {
-    "name": "Adobe"
+    "name": "hannessolo"
   },
   "license": "Apache-2.0",
   "keywords": ["aem", "edge-delivery", "headless", "experience-workspace"]
