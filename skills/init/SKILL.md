@@ -66,9 +66,11 @@ DA live links:
   Folder: https://da.live/browse#/<EW_ORG>/<EW_SITE>/<path>
 ```
 
-For the rest of this session, whenever you return a result involving a DA path, include the appropriate link:
+For the rest of this session, after completing every user request or task, include the relevant Experience Workspace link so the user can immediately review their changes:
 - For a file path → `https://da.live/canvas#/<EW_ORG>/<EW_SITE>/<path>`
 - For a folder path → `https://da.live/browse#/<EW_ORG>/<EW_SITE>/<path>`
+
+Always provide this link at the end of your response, even if the path was mentioned earlier in the conversation.
 
 ## Prerequisites
 
